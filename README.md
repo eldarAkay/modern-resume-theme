@@ -2,7 +2,7 @@
 
 *A modern simple static resume template. Powered by Jekyll and GitHub pages.*  
 
-Based on [this repo](https://sproogen.github.io/modern-resume-theme/)
+Based on [this repo](https://github.com/sproogen/modern-resume-theme)
 
 ## Usage
 
