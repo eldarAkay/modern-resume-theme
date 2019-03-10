@@ -27,7 +27,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Eldar, I’m a full stack Ruby on Rails developer with over 3 years experience in software development, based in Ukraine(Eastern Europe).
 
-  The things that I currently have the most experience working with are:
+  I have experience working with
 
   <mark>Ruby on Rails</mark>,
   <mark>MySql</mark>,
