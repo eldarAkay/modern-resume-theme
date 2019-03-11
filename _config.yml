@@ -6,6 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 name: Eldar Mustafaiev
 title: Full stack Ruby on Rails Developer
 email: eldar.mustafaiev@gmail.com
+skype: eldar_akay
 #website: Your website (optional)
 
 # Social links
@@ -25,7 +26,7 @@ linkedin_username: eldar-m-736b007a
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Eldar, I’m a full stack Ruby on Rails developer with over 3 years experience in software development, based in Ukraine(Eastern Europe).
+  Hi, my name is Eldar, I’m a full stack Ruby on Rails developer with over 3 years experience in software development, based in Ukraine.
 
   I have experience working with
 
