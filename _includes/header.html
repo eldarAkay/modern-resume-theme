@@ -70,11 +70,22 @@
           </li>
         {%- endif -%}
       </ul>
-
-      {%- if site.email -%}
+      {%- if site.skype -%}
         <p>
-          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+            Skype:
+            <span class="contact_info">{{ site.skype}}</span>
         </p>
+      {%- endif -%}
+      {%- if site.skype -%}
+      <p>
+        Telegram:
+        <a target="_blank" href="https://t.me/{{ site.telegram| cgi_escape | escape }}">{{ site.telegram | escape }}</a>
+      </p>
+      {%- endif -%}
+      {%- if site.email -%}
+      <p>
+        Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+      </p>
       {%- endif -%}
       {%- if site.linkedin_username -%}
       <p>
@@ -85,22 +96,16 @@
       </p>
       {%- endif -%}
       {%- if site.website -%}
-        <p>
-          Web: <a href="http://{{ site.website }}" target="_blank">{{ site.website | escape }}</a>
-        </p>
+      <p>
+        Web: <a href="http://{{ site.website }}" target="_blank">{{ site.website | escape }}</a>
+      </p>
       {%- endif -%}
-      
+
       {%- if site.github_username -%}
-        <p>
-            Github:
-            <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">https://github.com/{{ site.github_username | escape }}</a>
-        </p>
-      {%- endif -%} 
-      {%- if site.skype -%}
-        <p>
-            Skype:
-            <span class="contact_info">{{ site.skype}}</span>
-        </p>
+      <p>
+        Github:
+        <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}">https://github.com/{{ site.github_username | escape }}</a>
+      </p>
       {%- endif -%}
     </div>
   </div>
