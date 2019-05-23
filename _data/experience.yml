@@ -1,16 +1,32 @@
 # Experience template
 - company: BlackHorseTeam
 #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
-  job_title: Javascript developer
+  job_title: Javascript / Ruby developer
   dates: May 2017 - Present
 #  quote: >
 #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Implementing new features  
-    Bug fixing  
-    Providing code reviews  
-    Collaborating with product owners  
+    **Projects/Technologies:**  
+    An application that manages mitigation actions and tracks mitigation project success.  
+    *React, Ruby on Rails, PostgreSQL, Heroku*  
+  
+    Training Simulator for a Major Transportation Company  
+    *AngularJS, Angular, Node.js, MongoDB, Protractor, Gitlab CI*  
+  
+    Platform for renting filming equipment.  
+    *React, Ruby on Rails, MySQL, Heroku*  
+  
+    Communication platform with gamification  
+    *React, Redux, Saga, Node.js, MongoDB, Gitlab CI*  
+    
+    **Responsibilities:**  
+    Communication with client,  
+    Implementation of new features,  
+    Bug fixing,  
+    Mentoring,  
+    Providing code reviews,  
     Scrum activities
+
 - company: Freelance
   job_title: Web developer
 #  link: Link to company (optional)
