@@ -1,8 +1,24 @@
 # Experience template
+- company: Brightcom
+  #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
+  job_title: Javascript developer
+  dates: June 2019 - Present
+  #  quote: >
+  #   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    **Projects/Technologies:**  
+    Real Time Bidding, Tag integration platform  
+    *React, Node.js, MySql, MongoDB, DocumentDB*
+
+    **Responsibilities:**  
+    Implementation of new features,  
+    Bug fixing  
+    Scrum activities  
+
 - company: BlackHorseTeam
 #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
   job_title: Javascript / Ruby developer
-  dates: May 2017 - Present
+  dates: May 2017 - June 2019
 #  quote: >
 #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
