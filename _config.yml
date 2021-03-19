@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Eldar Mustafaiev
-title: Javascript developer
+title: Ruby Developer
 email: eldar.mustafaiev@gmail.com
 skype: eldar_akay
 telegram: eldar_mustafaiev
@@ -27,10 +27,11 @@ linkedin_username: eldar-m-736b007a
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Eldar, I'm a Javascript developer with over 4 years experience in software development.
+  Hi, my name is Eldar, I'm a ruby developer with over 4 years experience in software development.
 
   I have experience working with
 
+  <mark>Ruby</mark>,
   <mark>Javascript</mark>,
   <mark>React</mark>,
   <mark>Redux</mark>,

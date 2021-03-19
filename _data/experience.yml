@@ -1,8 +1,23 @@
 # Experience template
+- company: Local Labs
+  #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
+  job_title: Ruby Developer
+  dates: Mar 2020 - Nov 2020
+  #  quote: >
+  #   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    **Projects/Technologies:**  
+    Generation of news articles   
+    *Ruby, MySQL*
+    
+    **Responsibilities:**  
+    Writing scripts that generate thousands of news articles,  
+    Scrum activities  
+    
 - company: Brightcom
   #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
-  job_title: Javascript developer
-  dates: June 2019 - Present
+  job_title: JavaScript Developer
+  dates: June 2019 - Mar 2020
   #  quote: >
   #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
@@ -17,7 +32,7 @@
 
 - company: BlackHorseTeam
 #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
-  job_title: Javascript / Ruby developer
+  job_title: JavaScript/Ruby Developer
   dates: May 2017 - June 2019
 #  quote: >
 #   Short description of the company (optional)
