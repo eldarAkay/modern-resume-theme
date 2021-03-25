@@ -96,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_data/experience.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+            <state relative-caret-position="310">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -106,7 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>{%- if site.footer_show_references -%}</find>
       <find>.code</find>
       <find>ul</find>
       <find>p ul</find>
@@ -136,6 +135,7 @@
       <find>generat</find>
       <find>PHP</find>
       <find>writing</find>
+      <find>javasc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -264,17 +264,18 @@
       <workItem from="1602618359720" duration="1360000" />
       <workItem from="1602774465637" duration="604000" />
       <workItem from="1614769900364" duration="602000" />
-      <workItem from="1616144299988" duration="1343000" />
+      <workItem from="1616144299988" duration="2715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33658000" />
+    <option name="totallyTimeSpent" value="35030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="2562" height="1413" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22651275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19347134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Project Explorer" order="3" />
@@ -287,7 +288,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.44549018" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.1654902" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -405,8 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/experience.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+        <state relative-caret-position="310">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,12 @@
 # Experience template
+- company: Burning Buttons
+  #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
+  job_title: Ruby Developer
+  dates: Mar 2021 - Present
+  #  quote: >
+  #   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    
 - company: Local Labs
   #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
   job_title: Ruby Developer
