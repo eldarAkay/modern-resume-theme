@@ -6,6 +6,10 @@
   #  quote: >
   #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
+    **Projects/Technologies:**  
+    Generation of news articles   
+    *Ruby, MySQL*
+    
     **Responsibilities:**   
     Implementation of new features,  
     Bug fixing    
