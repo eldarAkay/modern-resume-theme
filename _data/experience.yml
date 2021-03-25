@@ -6,6 +6,9 @@
   #  quote: >
   #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
+    **Responsibilities:**   
+    Implementation of new features,  
+    Bug fixing    
     
 - company: Local Labs
   #  link: (https://www.linkedin.com/company/blackhorseteam/about/)
