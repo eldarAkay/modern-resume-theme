@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Eldar Mustafaiev
+name: Eldar Mustafaev
 title: Ruby Developer
 email: eldar.mustafaiev@gmail.com
 skype: eldar_akay
