@@ -6,12 +6,12 @@
   #  quote: >
   #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    **Projects/Technologies:**  
-    Healthcare web application
+    **Projects/Technologies:**    
+    Healthcare web application  
     *React, Java, MySql, MongoDB, Gitlab *
     
     **Responsibilities:**  
-    Writing an admin panel on React 
+    Writing an admin panel on React   
     Writing backend logic on Java
     
 - company: Local Labs
