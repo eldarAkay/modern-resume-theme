@@ -22,11 +22,11 @@
   #   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     **Projects/Technologies:**  
-    Generation of news articles   
+    Websites scraping project  
     *Ruby, MySQL*
     
     **Responsibilities:**  
-    Writing scripts that generate thousands of news articles,  
+    Writing web scrapping scripts,  
     Scrum activities  
     
 - company: Brightcom
